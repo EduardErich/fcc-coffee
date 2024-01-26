@@ -8,4 +8,5 @@ Some other functions not covered in the actual lesson were studied from research
 
 ## Final thoughts
 Once again, it's a pretty basic and introductory project. It's not so flashy but compared to the [TOP html recipe project](https://github.com/EduardErich/odin-recipes), which final result can be seen [here](https://eduarderich.github.io/odin-recipes/), it already pops out much more and looks a little bit more interesting too.  
+The final result can be seen [right here](https://eduarderich.github.io/fcc-coffee/).
 
